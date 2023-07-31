@@ -1,0 +1,31 @@
+C:\Users\Счастливый Наиль\RiderProjects\first_project\Nail Abdulganiev\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Счастливый Наиль\RiderProjects\first_project\Nail Abdulganiev\bin\Debug\net7.0\appsettings.json
+C:\Users\Счастливый Наиль\RiderProjects\first_project\Nail Abdulganiev\bin\Debug\net7.0\Nail Abdulganiev.staticwebassets.runtime.json
+C:\Users\Счастливый Наиль\RiderProjects\first_project\Nail Abdulganiev\bin\Debug\net7.0\Nail Abdulganiev.exe
+C:\Users\Счастливый Наиль\RiderProjects\first_project\Nail Abdulganiev\bin\Debug\net7.0\Nail Abdulganiev.deps.json
+C:\Users\Счастливый Наиль\RiderProjects\first_project\Nail Abdulganiev\bin\Debug\net7.0\Nail Abdulganiev.runtimeconfig.json
+C:\Users\Счастливый Наиль\RiderProjects\first_project\Nail Abdulganiev\bin\Debug\net7.0\Nail Abdulganiev.dll
+C:\Users\Счастливый Наиль\RiderProjects\first_project\Nail Abdulganiev\bin\Debug\net7.0\Nail Abdulganiev.pdb
+C:\Users\Счастливый Наиль\RiderProjects\first_project\Nail Abdulganiev\obj\Debug\net7.0\Nail Abdulganiev.csproj.AssemblyReference.cache
+C:\Users\Счастливый Наиль\RiderProjects\first_project\Nail Abdulganiev\obj\Debug\net7.0\Nail Abdulganiev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Счастливый Наиль\RiderProjects\first_project\Nail Abdulganiev\obj\Debug\net7.0\Nail Abdulganiev.AssemblyInfoInputs.cache
+C:\Users\Счастливый Наиль\RiderProjects\first_project\Nail Abdulganiev\obj\Debug\net7.0\Nail Abdulganiev.AssemblyInfo.cs
+C:\Users\Счастливый Наиль\RiderProjects\first_project\Nail Abdulganiev\obj\Debug\net7.0\Nail Abdulganiev.csproj.CoreCompileInputs.cache
+C:\Users\Счастливый Наиль\RiderProjects\first_project\Nail Abdulganiev\obj\Debug\net7.0\Nail Abdulganiev.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Счастливый Наиль\RiderProjects\first_project\Nail Abdulganiev\obj\Debug\net7.0\Nail Abdulganiev.RazorAssemblyInfo.cache
+C:\Users\Счастливый Наиль\RiderProjects\first_project\Nail Abdulganiev\obj\Debug\net7.0\Nail Abdulganiev.RazorAssemblyInfo.cs
+C:\Users\Счастливый Наиль\RiderProjects\first_project\Nail Abdulganiev\obj\Debug\net7.0\staticwebassets\msbuild.Nail Abdulganiev.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Счастливый Наиль\RiderProjects\first_project\Nail Abdulganiev\obj\Debug\net7.0\staticwebassets\msbuild.build.Nail Abdulganiev.props
+C:\Users\Счастливый Наиль\RiderProjects\first_project\Nail Abdulganiev\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Nail Abdulganiev.props
+C:\Users\Счастливый Наиль\RiderProjects\first_project\Nail Abdulganiev\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Nail Abdulganiev.props
+C:\Users\Счастливый Наиль\RiderProjects\first_project\Nail Abdulganiev\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Счастливый Наиль\RiderProjects\first_project\Nail Abdulganiev\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Счастливый Наиль\RiderProjects\first_project\Nail Abdulganiev\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Счастливый Наиль\RiderProjects\first_project\Nail Abdulganiev\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Счастливый Наиль\RiderProjects\first_project\Nail Abdulganiev\obj\Debug\net7.0\scopedcss\bundle\Nail Abdulganiev.styles.css
+C:\Users\Счастливый Наиль\RiderProjects\first_project\Nail Abdulganiev\obj\Debug\net7.0\scopedcss\projectbundle\Nail Abdulganiev.bundle.scp.css
+C:\Users\Счастливый Наиль\RiderProjects\first_project\Nail Abdulganiev\obj\Debug\net7.0\Nail Abdulganiev.dll
+C:\Users\Счастливый Наиль\RiderProjects\first_project\Nail Abdulganiev\obj\Debug\net7.0\refint\Nail Abdulganiev.dll
+C:\Users\Счастливый Наиль\RiderProjects\first_project\Nail Abdulganiev\obj\Debug\net7.0\Nail Abdulganiev.pdb
+C:\Users\Счастливый Наиль\RiderProjects\first_project\Nail Abdulganiev\obj\Debug\net7.0\Nail Abdulganiev.genruntimeconfig.cache
+C:\Users\Счастливый Наиль\RiderProjects\first_project\Nail Abdulganiev\obj\Debug\net7.0\ref\Nail Abdulganiev.dll
